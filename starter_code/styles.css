@@ -363,7 +363,7 @@ footer div img {
         flex-grow: 2;
     }
     #try-it-one p:first-child {
-        font-weight: 900;
+        font-weight: 500;
         font-size: 20px;
     }
 
@@ -641,18 +641,18 @@ footer div img {
 
     .img-header {
         order: -1;
-        width: 250px;
+        width: 500px;
 
     }
 
     header p {
         font-size: 20px;
-        width: 250px;
+        width: 2500px;
         margin: 10px 0 10px 0;
     }
 
     header h1 {
-        width: 250px;
+        width: 500px;
         font-size: 70px;
         line-height: 1;
         margin: 0;
